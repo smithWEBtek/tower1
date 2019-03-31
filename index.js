@@ -15,5 +15,8 @@ const bindListeners = () => {
     if (event.target.classList[0] == 'bg3') {
       $('p')[2].style["background-color"] = 'yellow'
     }
+    if (event.target.classList[0] == 'bg4') {
+      $('p')[3].style["background-color"] = 'pink'
+    }
   })
 }
