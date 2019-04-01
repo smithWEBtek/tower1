@@ -1,0 +1,42 @@
+.container {
+  margin: 40px;
+  border: 3px solid green;
+  background-color: rgb(229, 238, 252);
+}
+
+.bg1 {
+  background-color: rgba(0, 0, 255, 0.212);
+}
+
+.bg2 {
+  background-color: rgba(0, 128, 0, 0.212);
+}
+
+.bg3 {
+  background-color: rgba(255, 255, 0, 0.233);
+}
+
+.bg4 {
+  background-color: pink;
+}
+
+.content__title {
+  font-size: 2rem;
+}
+
+ 
+
+.content__body--p1 {
+  background-color: rgba(0, 0, 255, 0.212);
+}
+  
+.content__body--p2 {
+  background-color: rgba(0, 128, 0, 0.212);
+}
+.content__body--p3 {
+  background-color: rgba(255, 255, 0, 0.233);
+}
+
+.content__body--p4 {
+  background-color: rgb(151, 151, 49);
+}
